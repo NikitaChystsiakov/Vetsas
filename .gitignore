@@ -1,0 +1,4 @@
+# рабочие материалы — не публикуем
+.playwright-mcp/
+.claude/
+.DS_Store
